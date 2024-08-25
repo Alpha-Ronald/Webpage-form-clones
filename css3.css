@@ -1,0 +1,28 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin: 0;
+    height: 100vh;
+    padding: 20px;
+}
+
+.bigdiv{
+    display: flex;
+    border-radius: 10px;
+}
+
+.div1{
+   width: 35dvw;
+    background-color: rgb(189, 203, 212);
+    border-radius: 10px;
+    padding: 20px;
+  
+}
+.div2{
+    /* width: 65%; */
+}
+.imge{
+    width: 120px;
+    height: 150px;
+}
